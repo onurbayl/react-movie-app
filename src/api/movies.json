@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "name": "Örümcek-Adam: Eve Dönüş Yok",
+      "rating": "8",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/owp86mH42Un19egdeeZPImufBxN.jpg",
+      "overview": "Örümcek Adam'ın sinema tarihinde ilk kez, dost canlısı mahalle kahramanımız maskesizdir ve artık normal hayatıyla süper kahraman olmanın yüksek risklerini birbirinden ayıramıyordur. Doktor Strange'den yardım istediğinde, riskler daha da tehlikeli hale gelir ve onu Örümcek Adam olmanın gerçekte ne anlama geldiğini keşfetmeye zorlar.",
+      "id": 2
+    },
+    {
+      "name": "Yüzüklerin Efendisi: Güç Yüzükleri",
+      "rating": "7.7",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXJXQgSSyZ1MBZ6dk0zpVaUa24U.jpg",
+      "overview": "Orta Dünya tarihinin destanlara konu olan İkinci Çağ’ındaki efsanevi kahramanları ilk kez ekrana getirecek. J.R.R. Tolkien’ın The Hobbit ve The Lord of the Rings’inin binlerce yıl öncesinde geçen bu epik drama, izleyicileri büyük güçlerin ortaya çıktığı, krallıkların yükseldiği ve çöktüğü, sürpriz kahramanların sınandığı, umudun pamuk ipliğine bağlı olduğu ve tüm dünyayı karanlığa gömmekle tehdit ettiği bir döneme götürecek. Orta Dünya’nın büyük ölçüde barış içinde olduğu bir dönemde başlayan dizi, hem tanıdık hem de yeni yüzlerden oluşan bir grup karakterin uzun süredir dönmesinden korkulan bir kötülüğün yeniden yükselmesiyle yüzleşmesini anlatacak. Dumanlı Dağlar’ın karanlık derinliklerinden, elflerin başkenti Lindon’ın görkemli ormanlarına, göz alıcı ada krallığı Númenor’dan haritanın en uç köşelerine, bu krallıklar ve karakterler, Orta Dünya’dan ayrıldıktan çok sonra da anlatılmaya devam edecek efsanelerini şekillendirecekler.",
+      "id": 3
+    },
+    {
+      "name": "Suikast Treni",
+      "rating": "7.5",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNk1X15NaqY6Mcw15kkgxD1C53V.jpg",
+      "overview": "Kôtarô Isaka'nın Japonya'da çok satan romanı Maria Beetle'dan uyarlanan Bullet Train, görevleri için bir hızlı trende bulunan beş ayrı suikastçının hedeflerinin kesiştiğini fark etmeleriyle gelişenleri anlatıyor.",
+      "id": 4
+    },
+    {
+      "name": "DAHMER - Canavar: Jeffrey Dahmer’ın Hikâyesi",
+      "rating": "8.3",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6vf8ZN91tuTGQpJBzz1Rrz7tSHn.jpg",
+      "overview": "Dizi, Amerika'nın en kötü şöhretli seri katillerinden biri olan Jeffrey Dahmer'ın hikayesini konu ediyor. Jeffrey Dahmer'ın zor çocukluğundan, dehşet verici suçlarına ve 1992'deki mahkumiyetine odaklanılan yapımda, Dahmer’ın yıllar boyunca cinayet işlemesini mümkün kılan sistem sorunlarında da değiniliyor.",
+      "id": 5
+    }
+  ]
+}
